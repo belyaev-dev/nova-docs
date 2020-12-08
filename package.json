@@ -1,0 +1,19 @@
+{
+  "name": "nova",
+  "version": "0.0.1",
+  "description": "Документация для виджетов",
+  "main": "index.js",
+  "authors": {
+    "name": "Денис",
+    "email": "support@nova-agency.ru"
+  },
+  "repository": "belyaev-dev/nova-docs/nova",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
